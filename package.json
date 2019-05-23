@@ -1,0 +1,24 @@
+{
+	"name": "esm.markdown-it",
+	"version": "8.4.1",
+	"description": "This is the rewrite version of markdown-it library that is now available to be used as a native es module",
+	"main": "markdown-it.esm.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JCloudYu/esm.markdown-it.git"
+	},
+	"keywords": [
+		"MarkdownIt",
+		"Markdown",
+		"MD"
+	],
+	"author": "JCloudYu",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JCloudYu/esm.markdown-it/issues"
+	},
+	"homepage": "https://github.com/JCloudYu/esm.markdown-it#readme"
+}
